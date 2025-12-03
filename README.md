@@ -5,3 +5,5 @@ Researching space propulsion, especially ionic liquid electrospray thrusters. In
 
 CV([Japanese](./CV_jp.pdf))/(English)
 
+---
+![Last Commit](https://img.shields.io/github/last-commit/koki-takagi-ep/koki-takagi-ep?label=Last%20updated)
