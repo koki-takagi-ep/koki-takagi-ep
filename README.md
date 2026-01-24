@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="Last updated" src="https://img.shields.io/github/last-commit/koki-takagi-ep/koki-takagi-ep?label=Last%20updated&style=flat-square" />
+  <img alt="Research" src="https://img.shields.io/badge/Research-Electrospray%20thrusters-6f42c1?style=flat-square" />
+  <img alt="Interest" src="https://img.shields.io/badge/Interest-Ion%20dynamics-2ea44f?style=flat-square" />
+</p>
 
 Researching space propulsion, especially ionic liquid electrospray thrusters. Interested in developing theoretical models of ion dynamics in the liquid state.
 
@@ -12,7 +17,3 @@ web article 1 -> https://www.isas.jaxa.jp/topics/003764.html
 web article 2 -> https://www.isas.jaxa.jp/home/research-portal/people/2025/1006/?utm_source=isasweb&utm_medium=content&utm_campaign=links
 
 CV([Japanese](./CV_jp.pdf))/(English)
-
-<!--
-![Last Commit](https://img.shields.io/github/last-commit/koki-takagi-ep/koki-takagi-ep?label=Last%20updated)
- -->
