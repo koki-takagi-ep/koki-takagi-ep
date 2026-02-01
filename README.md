@@ -2,6 +2,8 @@ Researching space propulsion, especially ionic liquid electrospray thrusters. In
 
 宇宙推進機の研究をしています。特に、超小型・高効率な推進性能が期待できるイオン液体エレクトロスプレースラスタという電気推進（イオンエンジン）を扱っています。イオン液体・濃厚電解液のイオンダイナミクスに興味があります。
 
+[個人のホームページ](https://takagi-koki-homepage.pages.dev/)
+
 <p align="center">
   <img src="./wordcloud_en.png" alt="研究キーワード（日本語）のワードクラウド" width="900" />
 </p>
