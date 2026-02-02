@@ -1,3 +1,4 @@
+### 研究内容
 宇宙推進機の研究をしています。特に、超小型・高効率な推進性能が期待できるイオン液体エレクトロスプレースラスタという電気推進（イオンエンジン）を扱っています。イオン液体・濃厚電解液のイオンダイナミクスに興味があります。
 Researching space propulsion, especially ionic liquid electrospray thrusters. Interested in developing theoretical models of ion dynamics in the liquid state.
 
